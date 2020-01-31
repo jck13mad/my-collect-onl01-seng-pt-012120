@@ -1,4 +1,5 @@
 def my_collect(array)
+  if 
   i = 0
   name_collection
   
