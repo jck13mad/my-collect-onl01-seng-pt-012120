@@ -1,5 +1,5 @@
 def my_collect(array)
-  if array.empty?
+  if !array.empty?
     i = 0
     name_collection
   
